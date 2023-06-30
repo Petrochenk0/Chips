@@ -1,4 +1,3 @@
-// Получаем элемент с id "myText"
 var textElement = document.getElementById("testy");
 
 // Добавляем обработчик события "click"
